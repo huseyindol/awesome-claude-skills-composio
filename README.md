@@ -217,6 +217,7 @@ Skills are not MCP servers and not tools. MCP defines how an agent connects to e
 - [file-deletion](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/file-deletion) - Secure file deletion and data sanitization methods.
 - [metadata-extraction](https://github.com/mhattingpete/claude-skills-marketplace/tree/main/computer-forensics-skills/skills/metadata-extraction) - Extract and analyze file metadata for forensic purposes.
 - [threat-hunting-with-sigma-rules](https://github.com/jthack/threat-hunting-with-sigma-rules-skill) - Use Sigma detection rules to hunt for threats and analyze security events.
+- [vuln-guardian](https://github.com/huseyindol/vuln-guardian) - Autonomous multi-language vulnerability scanner (OSV.dev & GHSA), single-batch safe-version patcher with pre-prod breaking-change and live preview smoke verification, and self-hosted Next.js 16 Command Center. *By [@huseyindol](https://github.com/huseyindol)*
 
 ### Assistive Technology
 
